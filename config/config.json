@@ -15,9 +15,9 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "",
-    "password": "",
-    "database": "",
+    "username": "l4z6nxnesursk9d4",
+    "password": "gq6cdj2g3sjmlst2",
+    "database": "gkjccnb83pbuy1xy",
     "host": "",
     "dialect": "mysql"
   }
